@@ -1,0 +1,26 @@
+# Python/Django
+*.pyc
+__pycache__/
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.py~
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Ignore secret keys
+*.env
+
+# React
+node_modules/
+build/
