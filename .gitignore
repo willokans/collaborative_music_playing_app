@@ -1,6 +1,8 @@
 # Python/Django
 *.pyc
 __pycache__/
+music_controller/api/__pycache__/
+music_controller/db.sqlite3
 *.sqlite3
 *.pyc
 *.pyo
@@ -22,5 +24,5 @@ env/
 *.env
 
 # React
-node_modules/
+music_controller/frontend/node_modules/
 build/
